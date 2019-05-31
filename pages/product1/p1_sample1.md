@@ -6,6 +6,19 @@ sidebar: product1_sidebar
 permalink: p1_sample1.html
 folder: product1
 ---
+## 制定项目章程
+**输入**
+```flow
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
+&```
+**工具与技术**
+**输出**
 
 ## Sample Content
 
