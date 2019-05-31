@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview/第一章
+  - title: Overview/
     output: web, pdf
     folderitems:
 
@@ -43,6 +43,14 @@ entries:
     - title: Support
       url: /mydoc_support.html
       output: web, pdf
+
+  - title: 引论
+    output: web, pdf
+    folderitems:
+      - title: 指南概述和目的
+      url: /pmp_introduction.html
+      output: web, pdf
+      type: homepage
 
   - title: Release Notes
     output: web, pdf
