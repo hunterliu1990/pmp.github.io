@@ -7,18 +7,13 @@ permalink: p1_sample1.html
 folder: product1
 ---
 ## 制定项目章程
+asdfasdf asfasd ads fsad fdsa fdsa dsa dsfefsafsd
 **输入**
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
+adsfsadf ads 
 **工具与技术**
+asdf sadf dsa
 **输出**
+asdf asd f
 
 ## Sample Content
 
